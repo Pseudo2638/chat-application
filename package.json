@@ -1,0 +1,11 @@
+{
+	"name" : "chatApplication",
+	"version" : "0.0.1",
+	"private" : "false",
+	"main"    : "index.js",
+	"dependencies" : {
+		"express" : "latest",
+		"http" : "latest",
+		"socket.io":"latest"
+	}
+}
